@@ -1,0 +1,5 @@
+*.gdoc
+*.gsheet
+*.gslides
+*.gdraw
+.ipynb_checkpoints/
