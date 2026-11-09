@@ -1,1 +1,14 @@
-This is a new file added to the repository!
+# PROJECT SUMMARY - AIMLDAY-01
+This file contains an automated summary of the repository's contents.
+
+## Repository File Breakdown:
+- Total Resumes (.docx): 44
+- Extracted Result Sheets (.csv): 2
+- Configuration and Git metadata files: .gitignore, README.md
+
+### Summary of extracted_resume_emails.csv:
+  - Total Rows: 44
+  - Columns: File Name, Emails Found
+### Summary of skill_frequencies.csv:
+  - Total Rows: 46
+  - Columns: Skill, Frequency
